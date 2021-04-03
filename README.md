@@ -11,3 +11,7 @@ This is What i learn from the project:
 * How to add Material icons
 * How to style Text widgets
 * How to read and use Flutter Documentation
+
+# Screenshot
+![alt text](https://github.com/princealvinyusuf/Flutter-Profile-Card/blob/main/images/ios.png?raw=true)
+![alt text](https://github.com/princealvinyusuf/Flutter-Profile-Card/blob/main/images/android.png?raw=true)
